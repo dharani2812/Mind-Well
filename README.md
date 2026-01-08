@@ -15,7 +15,6 @@ A simple and responsive web application that helps students track their daily me
 This project is designed to help students become more aware of their mental health patterns and manage academic stress in a healthy way.
 
 ## Technologies Used
-- No-code / Low-code platform (VibeCode)
 - AI-based text and pattern analysis
 - Responsive UI components
 
